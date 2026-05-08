@@ -1,4 +1,4 @@
-# Image Segmentation Module (Member 1)
+# Image Segmentation  (Member 1)
 
 This module performs **pothole detection using image segmentation techniques** on enhanced road frames.
 
